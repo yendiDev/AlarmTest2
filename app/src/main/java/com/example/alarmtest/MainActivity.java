@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //This function stops the alarm
     public void stopAlarm(View view)
     {
         mediaPlayer.stop();
